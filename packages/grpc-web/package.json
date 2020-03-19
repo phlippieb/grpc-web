@@ -1,14 +1,14 @@
 {
-  "name": "grpc-web",
-  "version": "1.0.8",
+  "name": "phlippieb-grpc-web",
+  "version": "1.0.9",
   "author": "Google Inc.",
   "description": "gRPC-Web Client Runtime Library",
   "homepage": "https://grpc.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grpc/grpc-web.git"
+    "url": "https://github.com/phlippieb/phlippieb-grpc-web.git"
   },
-  "bugs": "https://github.com/grpc/grpc-web/issues",
+  "bugs": "https://github.com/phlippieb/phlippieb-grpc-web/issues",
   "files": [
     "index.js",
     "index.d.ts"
